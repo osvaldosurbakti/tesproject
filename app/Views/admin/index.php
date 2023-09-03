@@ -5,14 +5,14 @@
 <div class="container-fluid">
 
     <!-- Page Heading -->
-    <h1 class="h3 mb-4 text-gray-800">Admin</h1>
+    <h1 class="h3 mb-4 text-gray-800">User Lists</h1>
 
     <div class="row">
         <div class="col-lg-8">
             <table class="table">
                 <thead>
                     <tr>
-                        <th scope="col">#</th>
+                        <th scope="col">No</th>
                         <th scope="col">Username</th>
                         <th scope="col">Email</th>
                         <th scope="col">Role</th>
